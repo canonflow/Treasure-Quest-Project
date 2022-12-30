@@ -1,4 +1,4 @@
-# Treasure-Quest-Project
+# About this Project
 
 This is my first C# project that i made for Final Project of Algorithm and Programming at my university. So this project is based on the c# form which I modified to become a simple game. I hope you guys enjoy it. 😊
 
@@ -11,6 +11,13 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
 4. Select <b>Unblock</b>, click <b>apply</b> and <b>ok</b>.
 5. Applies to all files with the <b>.resx</b> extension such as <b>About.resx</b>, <b>Fake.resx</b>, <b>Home.resx</b>, and so forth.
 
+## Galery
+<figure>
+  <a href="https://postimg.cc/QHgGfd8d" target="_blank">
+    <img src="https://i.postimg.cc/tCwqCs8W/tampilan-Home.png" alt="Home">
+    <figcaption>Home Screen</figcaption>
+  </a>
+</figure>
 ---
 
 ### Developed by: Nathan Garzya Santoso - Informatic Engineering at University of Surabaya
