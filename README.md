@@ -14,10 +14,12 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
 ## Galery
 <figure>
   <a href="https://postimg.cc/QHgGfd8d" target="_blank">
-    <img src="https://i.postimg.cc/tCwqCs8W/tampilan-Home.png" alt="Home">
+    <img src="https://i.postimg.cc/tCwqCs8W/tampilan-Home.png" alt="Home" width="250">
     <figcaption>Home Screen</figcaption>
   </a>
 </figure>
+
+
 ---
 
 ### Developed by: Nathan Garzya Santoso - Informatic Engineering at University of Surabaya
