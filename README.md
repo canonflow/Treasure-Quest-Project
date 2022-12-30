@@ -115,4 +115,4 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
 
 ---
 
-### Developed by: Nathan Garzya Santoso - Informatic Engineering at University of Surabaya
+### Developed by: Nathan Garzya Santoso - Informatics Engineering at University of Surabaya
