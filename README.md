@@ -12,10 +12,14 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
 5. Applies to all files with the <b>.resx</b> extension such as <b>About.resx</b>, <b>Fake.resx</b>, <b>Home.resx</b>, and so forth.
 
 ## Galery
-<figure>
-  <img src="https://i.postimg.cc/tCwqCs8W/tampilan-Home.png" alt="Home" width="250">
-  <figcaption>Home Screen</figcaption>
-</figure>
+<ul>
+  <li>
+    <figure>
+      <img src="https://i.postimg.cc/tCwqCs8W/tampilan-Home.png" alt="Home" width="250">
+      <figcaption>Home Screen</figcaption>
+    </figure>
+  </li>
+</ul>
 
 
 ---
