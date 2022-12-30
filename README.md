@@ -1,4 +1,4 @@
-# About this Project
+# About
 
 This is my first C# project that i made for Final Project of Algorithm and Programming at my university. So this project is based on the c# form which I modified to become a simple game. I hope you guys enjoy it. 😊
 
