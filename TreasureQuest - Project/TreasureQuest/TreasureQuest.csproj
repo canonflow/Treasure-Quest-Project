@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D7218018-C33E-41CB-A276-3B1728CD172B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TreasureQuest</RootNamespace>
+    <AssemblyName>TreasureQuest</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fake.Designer.cs">
+      <DependentUpon>Fake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stage1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stage1.Designer.cs">
+      <DependentUpon>Stage1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stage2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stage2.Designer.cs">
+      <DependentUpon>Stage2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stage3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stage3.Designer.cs">
+      <DependentUpon>Stage3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stage4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stage4.Designer.cs">
+      <DependentUpon>Stage4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stages.Designer.cs">
+      <DependentUpon>Stages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TreasureQuest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TreasureQuest.Designer.cs">
+      <DependentUpon>TreasureQuest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="True.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="True.Designer.cs">
+      <DependentUpon>True.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fake.resx">
+      <DependentUpon>Fake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stage1.resx">
+      <DependentUpon>Stage1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stage2.resx">
+      <DependentUpon>Stage2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stage3.resx">
+      <DependentUpon>Stage3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stage4.resx">
+      <DependentUpon>Stage4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stages.resx">
+      <DependentUpon>Stages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TreasureQuest.resx">
+      <DependentUpon>TreasureQuest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="True.resx">
+      <DependentUpon>True.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TREASURE QUESTTitle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STARTstart %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STARTstartFix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ABOUTabout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EXITexit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STAGESstages.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOMEhome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STARTstartFixRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ABOUTaboutRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EXITexitRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PLAYplay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PLAYplayRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOMEhomeRed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Small Cloud 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Small Cloud 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Small Cloud 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Terrain2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pirateHuntersIdleCrop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Terrain6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Terrain21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pirateHuntersIdleMirrorFix.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pirateHuntersRun.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pirateHuntersRunMirror.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coin.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goldenSkull.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bigMap.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluePotion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueDiamond.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diamondEffect.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coinEffect.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mapEffect.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Terrain3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FlagFix.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spikes Crop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pirateHunterDead.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\waterReflectBig.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\water.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipIdle.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipIdleFix.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipIdleFIx2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipIdleFix3.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipIdleFix4Crop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sail.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bomb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bombFixCrop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bombExplotion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backPalmTreeLeft.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backPalmTreeReguler.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipHelm.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redPotion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pinkStar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pinkStarAttack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mapEffect1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2203523_arrow_back_botton_left_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back48p.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipHelmIdle.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipHelmTurn.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goldenSkullEffect.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front Palm Bottom and Grass %2832x32%29 31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrontPalmTree.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\potionEffect.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Platforms %2832x32%29 4platSmall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Platforms %2832x32%29 4platSmallFIx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Platforms %2832x32%29 4platSmallTest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fierceTooth.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fierceToothMirror.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fierceToothAttack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fierceToothAttackMirror.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Terrain2wall.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front Palm Bottom and Grass %2832x32%29 41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Terrain %2832x32%29 1small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Front Palm Bottom and Grass %2832x32%29 51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Platforms %2832x32%29 1Big.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greenPotion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cobaBg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cobaBg2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cobaBg2Fix.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trr1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trr-ceil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trr-ceil1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trr-ceil2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trr2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chestIdle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TotemIdle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\totemProcess.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trr2-mirror.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trr3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\branch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trr4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trr4-add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crabby.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crabbyMirror.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crabbyAttack.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\crabbyAttackMirror.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyEffect.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chestUnlocked.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chestUnlockedIdle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shipIdleBig.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sailBig.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treasure-true.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pirateHunterGround.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\treasure-fake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Big Clouds.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
