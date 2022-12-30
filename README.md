@@ -17,8 +17,9 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
   <figcaption>Home Screen</figcaption>
 </figure>
 <br>
+<br>
 <figure>
-  <img src="https://i.postimg.cc/K8t2GJPh/stage1.png" alt="Stage 1" width="325">
+  <img src="https://i.postimg.cc/K8t2GJPh/stage1.png" alt="Stage 1" width="375">
   <figcaption>Stage 1</figcaption>
 </figure>
 
