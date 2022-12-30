@@ -14,7 +14,11 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
 ## Galery
 <figure>
   <img src="https://i.postimg.cc/tCwqCs8W/tampilan-Home.png" alt="Home" width="325">
-  <figcaption>Home Screen</figcaption>
+  <ul>
+    <li>
+      <figcaption>Home Screen</figcaption>
+    </li>
+  </ul>
 </figure>
 <br>
 <br>
