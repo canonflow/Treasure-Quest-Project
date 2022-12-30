@@ -23,6 +23,26 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
 <br>
 <br>
 <figure>
+  <img src="https://i.postimg.cc/Dyy6yZ1v/tampilan-Stages-Kalo-Gk-Punya-Kunci.png" alt="Stage Screen With Out Key" width="325">
+  <ul>
+    <li>
+      <figcaption>Stages Screen Without Key</figcaption>
+    </li>
+  </ul>
+</figure>
+<br>
+<br>
+<figure>
+  <img src="https://i.postimg.cc/C5tRgmjf/tampilan-Stages-Kalo-Punya-Kunci.png" alt="Stage Screen With Key" width="325">
+  <ul>
+    <li>
+      <figcaption>Stages Screen With Key</figcaption>
+    </li>
+  </ul>
+</figure>
+<br>
+<br>
+<figure>
   <img src="https://i.postimg.cc/K8t2GJPh/stage1.png" alt="Stage 1" width="375">
   <ul>
     <li>
@@ -30,6 +50,47 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
     </li>
   </ul>
 </figure>
+<br>
+<br>
+<figure>
+  <img src="https://i.postimg.cc/tCWqJqbc/stage2.png" alt="Stage 2" width="375">
+  <ul>
+    <li>
+      <figcaption>Stage 2</figcaption>
+    </li>
+  </ul>
+</figure>
+<br>
+<br>
+<figure>
+  <img src="https://i.postimg.cc/3JTMLgML/stage3.png" alt="Stage 3" width="375">
+  <ul>
+    <li>
+      <figcaption>Stage 3</figcaption>
+    </li>
+  </ul>
+</figure>
+<br>
+<br>
+<figure>
+  <img src="https://i.postimg.cc/Dy2jJ53K/stage4.png" alt="Stage 4" width="375">
+  <ul>
+    <li>
+      <figcaption>Stage 4</figcaption>
+    </li>
+  </ul>
+</figure>
+<br>
+<br>
+<figure>
+  <img src="https://i.postimg.cc/6qG9dwvy/treasure-Quest.png" alt="Final Stage" width="375">
+  <ul>
+    <li>
+      <figcaption>Treasure Quest (Final Stage)</figcaption>
+    </li>
+  </ul>
+</figure>
+
 
 
 ---
