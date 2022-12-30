@@ -90,6 +90,26 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
     </li>
   </ul>
 </figure>
+<br>
+<br>
+<figure>
+  <img src="https://i.postimg.cc/7Zq5yGz9/true.png" alt="True Treasure" width="375">
+  <ul>
+    <li>
+      <figcaption>True Treasure</figcaption>
+    </li>
+  </ul>
+</figure>
+<br>
+<br>
+<figure>
+  <img src="https://i.postimg.cc/fWxWTWDr/fake.png" alt="Fake Treasure" width="375">
+  <ul>
+    <li>
+      <figcaption>Fake Treasure</figcaption>
+    </li>
+  </ul>
+</figure>
 
 
 
