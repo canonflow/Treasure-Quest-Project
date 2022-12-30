@@ -15,8 +15,8 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
 <figure>
   <a href="https://postimg.cc/QHgGfd8d" target="_blank">
     <img src="https://i.postimg.cc/tCwqCs8W/tampilan-Home.png" alt="Home" width="250">
-    <figcaption>Home Screen</figcaption>
   </a>
+  <figcaption>Home Screen</figcaption>
 </figure>
 
 
