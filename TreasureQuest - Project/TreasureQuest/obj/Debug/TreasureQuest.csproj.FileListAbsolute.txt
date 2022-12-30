@@ -1,0 +1,40 @@
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\bin\Debug\TreasureQuest.exe.config
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\bin\Debug\TreasureQuest.exe
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\bin\Debug\TreasureQuest.pdb
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.csproj.AssemblyReference.cache
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.Home.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.Properties.Resources.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.csproj.GenerateResource.cache
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.csproj.CoreCompileInputs.cache
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.exe
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.pdb
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.Stages.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.About.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.Stage1.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.Stage2.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.Stage3.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.Stage4.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.TreasureQuest.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.True.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\UAS\TreasureQuest\TreasureQuest\obj\Debug\TreasureQuest.Fake.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\bin\Debug\TreasureQuest.exe.config
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\bin\Debug\TreasureQuest.exe
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\bin\Debug\TreasureQuest.pdb
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.csproj.AssemblyReference.cache
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.About.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.Fake.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.Home.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.Properties.Resources.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.Stage1.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.Stage2.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.Stage3.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.Stage4.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.Stages.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.TreasureQuest.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.True.resources
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.csproj.GenerateResource.cache
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.csproj.CoreCompileInputs.cache
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.exe
+D:\Kuliah\Mata Kuliah\Semester 1\Algorithm and Programming\TreasureQuest - Project\TreasureQuest\obj\Debug\TreasureQuest.pdb
