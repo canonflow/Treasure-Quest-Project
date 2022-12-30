@@ -10,3 +10,5 @@ If you find an error such as <b>"Couldn't process file nameOfFile.resx due to it
 3. Right click on the file, then select <b>Properties</b>.
 4. Select <b>Unblock</b>, click <b>apply</b> and <b>ok</b>.
 5. Applies to all files with the <b>.resx</b> extension such as <b>About.resx</b>, <b>Fake.resx</b>, <b>Home.resx</b>, and so forth.
+
+### Developed by: Nathan Garzya Santoso - Informatic Engineering at University of Surabaya
